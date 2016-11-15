@@ -1,7 +1,11 @@
 root = true
 
 [*]
+<<<<<<< HEAD
 end_of_line = lf
+=======
+end_of_line = crlf
+>>>>>>> ee42c83e39ef2a5bc939b6a0b9e3e562e30f278f
 insert_final_newline = false
 indent_style = space
 indent_size = 2
